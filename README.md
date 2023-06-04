@@ -38,7 +38,7 @@ Buzzer: The buzzer is an audio output device that emits sound signals. It can be
 
 Vibration Motor: The vibration motor provides haptic feedback to the user. When an obstacle is detected, the vibration motor can be activated to provide tactile sensations, alerting the user to the presence of the obstacle. This feedback mechanism enhances the user's situational awareness and assists in obstacle avoidance.
 
-Stick: The stick serves as the physical framework for the smart stick project, providing a familiar and ergonomic form factor for users to hold and manipulate. The stick can be designed to securely house the components, such as the Arduino Nano, ultrasonic sensor, LED, buzzer, vibration motor, and battery. Its length and structure can be customized based on user preferences for comfort and ease of use.
+Stick: The stick serves as the physical framework for the smart stick project, providing a familiar and ergonomic form factor for users to hold and manipulate. The stick can be designed to securely house the components, such as the Arduino Nano, ultrasonic sensor, LED, buzzer and vibration motor. Its length and structure can be customized based on user preferences for comfort and ease of use.
 
 Connection:
 1. ultrasonic sensor vcc to vin, trig to d9, echo to d10, gnd to gnd
