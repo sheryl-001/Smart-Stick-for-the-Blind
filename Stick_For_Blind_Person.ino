@@ -15,7 +15,6 @@ pinMode(trigPin, OUTPUT); // Sets the trigPin as an Output
 pinMode(echoPin, INPUT); // Sets the echoPin as an Input
 pinMode(buzzer, OUTPUT);
 pinMode(motor, OUTPUT);
-//pinMode(motor, INPUT); 
 pinMode(led_pin,OUTPUT);
 
 
@@ -58,6 +57,3 @@ else{
 Serial.print("Distance(cm): ");
 Serial.println(distance);
 }
-
-//ultrasonic sensor vcc to vin, trig to d9, echo to d10, gnd to gnd
-//buzzer -ve to gnd, +ve to d11
